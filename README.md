@@ -1,4 +1,4 @@
-# Cs50-Final-Project
+# 📊 Pollapp
 My final project for Cs50: Web Programming with Python and JavaScript
 
 ## Distinctiveness and Complexity:
