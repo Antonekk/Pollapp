@@ -1,5 +1,5 @@
 # 📊 Pollapp
-![image](https://github.com/user-attachments/assets/137b19c6-e75a-4e6c-a161-f1c69d2dae38)
+![image](https://github.com/user-attachments/assets/48982808-9e55-4ebd-9a39-93c46b765dfd)
 
 
 ## Distinctiveness and Complexity:
