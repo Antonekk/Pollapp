@@ -19,7 +19,8 @@ In the project, in addition to the previously known python, django, javascript, 
 ## How to run Pollapp on your device
 
 #### 1. Clone Pollapp github repository
-#### 2. Next run `docker run -p 8000:8000 pollapp:latest`
+#### 2. Run docker `docker build . -t pollapp:latest`
+#### 3. Next run `docker run -p 8000:8000 pollapp:latest`
 #### 4. Open your browser and go to "localhost:8000" and you sould be able to use Pollapp
 ##### There is already one superuser created, you can use it if you want - Username: cs50  Password: cs50
 
