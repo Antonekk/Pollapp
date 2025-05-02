@@ -1,6 +1,4 @@
-from re import T
-from tkinter import CASCADE
-from tkinter.messagebox import QUESTION
+from django.db.models import CASCADE
 from django.db import models
 
 from django.contrib.auth.models import AbstractUser

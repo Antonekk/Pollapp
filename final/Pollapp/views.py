@@ -1,4 +1,3 @@
-from asyncore import poll
 import random
 import string
 from django.shortcuts import render
