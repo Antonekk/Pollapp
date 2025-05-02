@@ -1,5 +1,6 @@
 # 📊 Pollapp
-My final project for Cs50: Web Programming with Python and JavaScript
+![image](https://github.com/user-attachments/assets/137b19c6-e75a-4e6c-a161-f1c69d2dae38)
+
 
 ## Distinctiveness and Complexity:
 This project was very challanging for me. For the first time, I created a project completely from scratch and by myself.
