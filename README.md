@@ -19,10 +19,8 @@ In the project, in addition to the previously known python, django, javascript, 
 ## How to run Pollapp on your device
 
 #### 1. Clone Pollapp github repository
-#### 2. After opening it with your terminal use this command: "cd final"
-#### 3. Next run "python manage.py runserver"
-#### 4. Open your browser and go to "http://127.0.0.1:8000" and you sould be able to use Pollapp
-##### If you want to use admin panel you can run this command: "python manage.py createsuperuser"
+#### 2. Next run `docker run -p 8000:8000 pollapp:latest`
+#### 4. Open your browser and go to "localhost:8000" and you sould be able to use Pollapp
 ##### There is already one superuser created, you can use it if you want - Username: cs50  Password: cs50
 
 ## Tools used while creating Pollapp
